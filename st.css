@@ -1,0 +1,90 @@
+@font-face {
+    font-family:'rudawregular2';
+    src:url('rudawregular2.ttf');
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.karat1{
+
+
+
+
+    text-align: center;
+}
+
+.karat2{
+
+
+
+
+    text-align: center;
+}
+
+
+.dgma{
+
+margin-top: 3px;
+
+
+}
+
+body{
+
+
+    background-color: rgb(3, 3, 3)
+}
+
+
+a{
+color: aliceblue;
+text-decoration: none;
+font-family: rudawregular2 ;
+font-size: 23px;
+}
+button{
+border-radius: 19px;
+background-color: rgb(255, 115, 0);
+width: 33px;
+border-color: rgb(255, 115, 0);
+
+}
+
+p{
+font-family: rudawregular2 ;
+color: aliceblue;
+
+}
+
+.dgma{
+
+    background-color: rgb(255, 115, 0);
+    width: 33px;
+    border-color: rgb(255, 115, 0);
+color: aliceblue;
+font-family: rudawregular2 ;
+font-size: 20px;
+
+}
+
+.ka{
+
+border-radius: 10px;
+border-color: rgb(255, 115, 0);
+font-family: rudawregular2 ;
+
+}
